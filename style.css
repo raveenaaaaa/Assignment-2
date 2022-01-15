@@ -141,6 +141,10 @@ input{
     }
     .item-banner{
         text-align: center;
+        padding: 0 3%;
+    }
+    .item-img{
+        max-width: 100%;
     }
     .item-info{
         padding-left: 15px;
