@@ -137,6 +137,13 @@ input{
     }
     .collection-item{
         width:100%;
+        padding-left:0;
+    }
+    .item-banner{
+        text-align: center;
+    }
+    .item-info{
+        padding-left: 15px;
     }
     .text-content{
         width: 100%;
